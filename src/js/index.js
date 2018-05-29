@@ -1,5 +1,4 @@
-require("")
-document.onreadystatechange(function (ev) {
+window.onload(function (ev) {
     var width = 300; //画布的宽度
     var height = 300; //画布的高度
 
