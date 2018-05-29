@@ -1,4 +1,5 @@
-window.onload(function (ev) {
+window.onload=(function (ev) {
+    alert("loaded")
     var width = 300; //画布的宽度
     var height = 300; //画布的高度
 
